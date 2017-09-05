@@ -1,0 +1,1 @@
+Readme for hw00 (Jamie Schwartz)
